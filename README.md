@@ -1,6 +1,6 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=80ED99&height=200&section=header&text=HaeRhee%20Github!&fontSize=50" />	
-</div>
+
 
 <div>
 <h2>I`m HaeRhee Nam</h2>
@@ -81,5 +81,5 @@
 </div>
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSunR&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=NSunR&show_icons=true">
+</div>
