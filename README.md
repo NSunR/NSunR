@@ -9,7 +9,7 @@
     <p><strong> <img src="https://img.shields.io/badge/Constant Communication-F7DF1E?style=flat-square"></strong>끊임없는 소통을 하며 함께 점진적으로 개발한 서비스를 만들어가고 싶습니다.</p>
 </div>
 <div align=center>
-	<h3>Tech Stack </h3>
+	<h2>Tech Stack </h2>
     <h4>{...Studying}</h4>
 	<p>Platforms & Languages </p>
 </div>
@@ -34,7 +34,7 @@
 
 
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<h2>🛠 Tools 🛠</h2>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
