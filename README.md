@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff">
-	<br>
+	<br />
 
 
 
