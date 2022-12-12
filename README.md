@@ -1,6 +1,6 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=80ED99&height=200&section=header&text=HaeRhee%20Github!&fontSize=50" />	
-
+<div align="center"> <a href="https://ahahahangstudy.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat&logo=Tistory&logoColor=black"/></a></div>
 
 <div>
 <h2>I`m HaeRhee Nam</h2>
