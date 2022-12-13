@@ -48,9 +48,10 @@
 <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=black">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 </div>
+<br/>
+<br/>
 
 <div align=center>
-	<br/>
-	<br/>
+		
 <img src="https://github-readme-stats.vercel.app/api?username=NSunR&show_icons=true">
 </div>
