@@ -4,7 +4,7 @@
 
 <div>
 <h2>I`m HaeRhee Nam</h2>
-    <p><strong> <img src="https://img.shields.io/badge/Positive-06B6D4?style=for-the-badge"></strong>어제보다 나은 오늘을 위해 하루하루 나아가는 개발자가 되고싶은 <strong>남해리</strong>입니다!</p>
+    <p><strong> <img src="https://img.shields.io/badge/Positive-06B6D4?style=for-the-badge"></strong>어제보다 나은 오늘을 위해 하루하루 발전하는 개발자가 되고싶은 <strong>남해리</strong>입니다!</p>
     <p><strong> <img src="https://img.shields.io/badge/Enjoyment-CFF09E?style=for-the-badge"></strong>모든 사용자가 좀 더 효율적이고 편리하게 이용하는 서비스를 제공하길 좋아합니다. </p>
     <p><strong> <img src="https://img.shields.io/badge/Constant Communication-F7DF1E?style=for-the-badge"></strong>끊임없는 소통을 하며 함께 점진적으로 개발한 서비스를 만들어가고 싶습니다.</p>
 </div>
