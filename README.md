@@ -53,7 +53,6 @@
 <br/>
 <br/>
 
-<div align=center>
-		
-<img src="https://github-readme-stats.vercel.app/api?username=NSunR&show_icons=true">
+<div align=center>	
+    <img src="https://github-readme-stats.vercel.app/api?username=NSunR&show_icons=true">
 </div>
